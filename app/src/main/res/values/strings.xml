@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BiopacificV1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registro_mascota">Registro mascota</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_mascotas">Mascotas</string>
+    <string name="menu_addmascota">Agregar Mascota</string>
+    <string name="precio">Precio:  S/.</string>
+    <string name="inicio">Laboratorio biopacific, solicite sus servicios de manera rapida y sencilla</string>
+    <string name="regimascota">Registra a la mascota para solicitar servicios de analisis clinico y llevar un control del paciente</string>
+</resources>
